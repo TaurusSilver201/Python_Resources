@@ -123,6 +123,5 @@ The Jupyter Notebook is an open source web application that you can use to creat
 
 Source : [Geeks for Geeks](https://www.geeksforgeeks.org/best-way-to-start-learning-python-a-complete-roadmap/)
 
-> [Redirect to Main Page](https://github.com/thegeekyb0y/learnpython)
 
 
