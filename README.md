@@ -107,8 +107,7 @@ It is a language which many people fall in love with because of its simplicity. 
 | Scientific Python                      | [Click Here](https://twitter.com/SciPyTip)                                                               |
 | Rodrigo                                | [Click Here](https://twitter.com/mathsppblog)                                                            |
 | Mike Driscoll                          | [Click Here](https://twitter.com/driscollis)                                                             | 
-| Matt Harrison                          | [Click Here](https://twitter.com/__mharrison__)                                                          |
-| Aditya Tiwari                          | [Click Here](https://twitter.com/thegeekyb0y)                                                            |
+| Matt Harrison                          | [Click Here](https://twitter.com/__mharrison__)                                                          |                                                          |
 | Real Python                            | [Click Here](https://twitter.com/realpython)                                                             |
 | Trey Hunner                            | [Click Here](https://twitter.com/treyhunner)                                                             |
 
