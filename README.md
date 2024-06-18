@@ -1,4 +1,3 @@
-# Learn Python
 
 ## Introduction 
 Python is a high-level, interpreted scripting language, highly used for automation and backend purposes.
